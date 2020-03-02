@@ -1,0 +1,118 @@
+{
+ "sections": [
+  {
+   "id": "a454c050-f13c-6dc0-7fd1-ffadc5723dfc",
+   "title": "Assessment Library",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Assessment-Library-a454.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "955fd673-4778-08ef-917e-0a3c3419e171",
+   "title": "Code Visualizer",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Code-Visualizer-955f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "2297298b-077b-f405-74fd-946543fab5d2",
+   "title": "Learning Insights",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Learning-Insights-2297.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "6d9b3d86-3f17-9a07-7887-aa25388d0b41",
+   "title": "Auto-Graded Assessments",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Auto-Graded-Assessments-6d9b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "e3ca8567-7179-6649-3e1a-8dc26201608a",
+   "title": "Stacks Library",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Stacks-Library-e3ca.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "b19df357-05ed-c5de-ad8f-c5ffc3a47261",
+   "title": "Hello Codio",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Hello-Codio-b19d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": false,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

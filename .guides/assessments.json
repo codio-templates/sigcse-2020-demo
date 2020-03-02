@@ -1,0 +1,171 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-576716946",
+  "source": {
+   "name": "MCQ Demo",
+   "showName": false,
+   "instructions": "## Multiple Choice Question Example\n\nSelect all of the programming languages that are compiled. **Hint**, there is more than one right answer.",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "b9f0c98b-e96f-3c66-207c-1b3e45d6404e",
+     "correct": false,
+     "answer": "Python"
+    },
+    {
+     "_id": "40ccf3ec-5f9e-5bbb-ef36-906c349b43b9",
+     "correct": true,
+     "answer": "Java"
+    },
+    {
+     "_id": "ab3a43e2-c860-ea92-0d39-7d1e24780ef8",
+     "correct": true,
+     "answer": "C++"
+    },
+    {
+     "_id": "0e43e243-23a7-a789-b2a7-a260c37bd668",
+     "correct": false,
+     "answer": "JavaScript"
+    }
+   ],
+   "guidance": "C++ and Java are compiled languages. That means, before running the program, the compiler turns the source code into machine code. The Java compiler turns the source code into bytecode. After the compilation process, the program is ready to be run.\n\nPython and JavaScript are interpreted languages.",
+   "showGuidanceAfterResponse": true,
+   "showExpectedAnswer": true,
+   "points": 1,
+   "incorrectPoints": 0,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Multiple Choice"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-582354780",
+  "source": {
+   "name": "FITB example typing",
+   "showName": false,
+   "instructions": "## Fill in the Blank (Typing)\n\nFill in the blanks below by typing your answer.",
+   "text": "The <<<boolean>>> data type has only two possible values, true or false.\n\nThe <<<integer>>> data type is a number without a decimal value.\n\nThe <<<float>>> data type is a number with a decimal value.\n\nThe <<<string>>> data type is a sequence of characters.",
+   "guidance": "The boolean data type has only two possible values, true or false.\n\nThe integer data type is a number without a decimal value. `3` is an example of an integer.\n\nThe float data type is a number with a decimal value. `3.2` is an example of a float.\n\nThe string data type is a sequence of characters. `\"cat\"` is an example of a string.",
+   "showGuidanceAfterResponse": true,
+   "showExpectedAnswer": true,
+   "points": 1,
+   "showValues": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "text": [
+     "The ",
+     0,
+     " data type has only two possible values, true or false.\n\nThe ",
+     0,
+     " data type is a number without a decimal value.\n\nThe ",
+     0,
+     " data type is a number with a decimal value.\n\nThe ",
+     0,
+     " data type is a sequence of characters."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-80568668",
+  "source": {
+   "name": "FITB Example Drop Down",
+   "showName": false,
+   "instructions": "## Fill in the Blank (Dropdown)\n\nSelect the best word for each blank below.",
+   "text": "The <<<boolean>>> data type has only two possible values, true or false.\n\nThe <<<integer>>> data type is a number without a decimal value.\n\nThe <<<float>>> data type is a number with a decimal value.\n\nThe <<<string>>> data type is a sequence of characters.",
+   "guidance": "The boolean data type has only two possible values, true or false.\n\nThe integer data type is a number without a decimal value. `3` is an example of an integer.\n\nThe float data type is a number with a decimal value. `3.2` is an example of a float.\n\nThe string data type is a sequence of characters. `\"cat\"` is an example of a string.",
+   "showGuidanceAfterResponse": true,
+   "showExpectedAnswer": true,
+   "points": 1,
+   "showValues": true,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Fill in the Blanks"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": "",
+   "tokens": {
+    "blank": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "text": [
+     "The ",
+     0,
+     " data type has only two possible values, true or false.\n\nThe ",
+     0,
+     " data type is a number without a decimal value.\n\nThe ",
+     0,
+     " data type is a number with a decimal value.\n\nThe ",
+     0,
+     " data type is a sequence of characters."
+    ]
+   }
+  }
+ },
+ {
+  "type": "parsons-puzzle",
+  "taskId": "parsons-puzzle-2090851768",
+  "source": {
+   "name": "Parsons Problem Example",
+   "showName": false,
+   "instructions": "## Parsons Problem Example\n\nDrag the code blocks below to make a conditional statement. **Note**, not all of the code blocks will be used.",
+   "initial": "if my_var == 1:\n  print(\"my_var is equal to 1\")\nelif my_var == 2:\n  print(\"my_var is equal to 2\")\nelse:\n  print(\"my_var is greater than 2\")\nelse if my_var == 2: #distractor",
+   "options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\"\n}",
+   "grader": "",
+   "guidance": "The correct answer is:\n\n```python\nif my_var == 1:\n  print(\"my_var is equal to 1\")\nelif my_var == 2:\n  print(\"my_var is equal to 2\")\nelse:\n  print(\"my_var is greater than 2\")\n```\n\nThe line of code that says `else if my_var == 2:` is not correct because Python uses `elif` express \"else if\". Don't forget to indent the `print` statements.",
+   "showGuidanceAfterResponse": true,
+   "points": 1,
+   "oneTimeTest": false,
+   "metadata": {
+    "tags": [
+     {
+      "name": "Assessment Type",
+      "value": "Parsons Puzzle"
+     }
+    ],
+    "files": [],
+    "opened": []
+   },
+   "bloomsObjectiveLevel": "",
+   "learningObjectives": ""
+  }
+ }
+]
