@@ -146,7 +146,7 @@
   "source": {
    "name": "Parsons Problem Example",
    "showName": false,
-   "instructions": "## Parsons Problem Example\n\nDrag the code blocks below to make a conditional statement. **Note**, not all of the code blocks will be used.",
+   "instructions": "## Parsons Problem Example\n\nDrag the code blocks below to make a conditional statement. **Note**, not all of the code blocks will be used. Drag to indent code where appropriate.",
    "initial": "if my_var == 1:\n  print(\"my_var is equal to 1\")\nelif my_var == 2:\n  print(\"my_var is equal to 2\")\nelse:\n  print(\"my_var is greater than 2\")\nelse if my_var == 2: #distractor",
    "options": "{\n  \"sortableId\": \"sortable\",\n  \"trashId\": \"sortableTrash\"\n}",
    "grader": "",

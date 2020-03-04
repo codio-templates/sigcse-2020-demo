@@ -2,40 +2,40 @@
  "name": "SIGCSE 2020",
  "children": [
   {
+   "title": "Code Visualizer",
+   "id": "cb2b34f7-839b-2bca-8bcf-707c4a0f8eb3",
+   "type": "page",
+   "pageId": "955fd673-4778-08ef-917e-0a3c3419e171"
+  },
+  {
+   "title": "Auto-Graded Assessments",
+   "id": "b3cd731d-5d23-1d26-4b1b-6f35c1e81d76",
+   "type": "page",
+   "pageId": "6d9b3d86-3f17-9a07-7887-aa25388d0b41"
+  },
+  {
    "title": "Assessment Library",
    "id": "a454c050-f13c-6dc0-7fd1-ffadc5723dfc",
-   "pageId": "a454c050-f13c-6dc0-7fd1-ffadc5723dfc",
-   "type": "page"
+   "type": "page",
+   "pageId": "a454c050-f13c-6dc0-7fd1-ffadc5723dfc"
   },
   {
-   "id": "cb2b34f7-839b-2bca-8bcf-707c4a0f8eb3",
-   "title": "Code Visualizer",
-   "pageId": "955fd673-4778-08ef-917e-0a3c3419e171",
-   "type": "page"
-  },
-  {
-   "id": "9dcbe371-46dc-6489-cbd0-ebbe0eafee36",
    "title": "Learning Insights",
-   "pageId": "2297298b-077b-f405-74fd-946543fab5d2",
-   "type": "page"
+   "id": "9dcbe371-46dc-6489-cbd0-ebbe0eafee36",
+   "type": "page",
+   "pageId": "2297298b-077b-f405-74fd-946543fab5d2"
   },
   {
-   "id": "b3cd731d-5d23-1d26-4b1b-6f35c1e81d76",
-   "title": "Auto-Graded Assessments",
-   "pageId": "6d9b3d86-3f17-9a07-7887-aa25388d0b41",
-   "type": "page"
-  },
-  {
-   "id": "0b911a8b-b5c5-74ae-bf65-84a0d72af0b5",
    "title": "Stacks Library",
-   "pageId": "e3ca8567-7179-6649-3e1a-8dc26201608a",
-   "type": "page"
+   "id": "0b911a8b-b5c5-74ae-bf65-84a0d72af0b5",
+   "type": "page",
+   "pageId": "e3ca8567-7179-6649-3e1a-8dc26201608a"
   },
   {
-   "id": "ff21cf86-1286-d057-94a7-eb9fd83bf13b",
    "title": "Going Further",
-   "pageId": "b19df357-05ed-c5de-ad8f-c5ffc3a47261",
-   "type": "page"
+   "id": "ff21cf86-1286-d057-94a7-eb9fd83bf13b",
+   "type": "page",
+   "pageId": "b19df357-05ed-c5de-ad8f-c5ffc3a47261"
   }
  ]
 }

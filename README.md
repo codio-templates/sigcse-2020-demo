@@ -1,5 +1,13 @@
 # SIGCSE 2020 Demo
 
+## TL;DR
+* Use Zed to login as **psenior1** to access the demo
+* When in doubt, refresh the page
+* This is an interactive playground ― click, drag, indent, search, etc.
+  * Click through the code visualizer
+  * Drag the code blocks to solve the Parsons problem
+  * Ask them what languages they use and then search for them in Stacks
+
 ## Launching the Demo
 The Learning Insights section will only work with the **psenior1** account. So anybody using this demo must be logged in as this user.
 * Go to Zed and log in with your GitHub credentials
@@ -13,7 +21,7 @@ The Learning Insights section will only work with the **psenior1** account. So a
 * Click on the starter pack called **SIGCSE 2020 Demo**
 * Click on the blue button that says "Use Pack"
 * Add your name to the starter pack
-  * **Patrick SIGCSE 2020 Demo**
+  * Example - **Patrick SIGCSE 2020 Demo**
   * This will help you find your demo on days two and three
 
 #### All Other Times Using the Demo
@@ -25,10 +33,10 @@ The Learning Insights section will only work with the **psenior1** account. So a
 * Go to the first page - the icon with three horizontal lines (top-right corner) will open the table of contents
 
 ## Purpose
-This demo is designed to be used by anybody at Codio to show off the platform. The contents of this demo coincides with the information highlighted on the backdrop for our booth. It is a six-page interactive demo, with the last page showing off our custom resources as well having some tools for taking the prospective client further (start a trial, capture information for HubSpot, and a link for more demos).
+The contents of this demo coincides with the information highlighted on the backdrop for our booth. It is a six-page interactive demo, with the last page showing off our custom resources as well having some tools for taking the prospective client further (start a trial, capture information for HubSpot, and a link for more demos).
 
 ## Assessments Library
-* The gif shows how the the assessments library can be searched.
+* The gif shows how the assessments library can be searched.
 * Instructors can search by:
   * Programming Language
   * Category - Higher level of organization like loops
@@ -40,10 +48,10 @@ This demo is designed to be used by anybody at Codio to show off the platform. T
   * Institutions can create their own tagging system if they want (class title)
 
 ## Code Visualizer
+* **Drag the middle divider of the visualizer so all of the code can be seen**
 * Students can step through their code one line at a time
   * This makes more abstract concepts like loops, constructors, function/method calls, and recursion more tangible
 * The code in the visualizer encrypts our slogan for SIGCSE
-* Drag the middle "bar" of the visualizer so all of the code can be seen
 * Click the **Next** button to step through the program
   * 1st click - Declare the variable `palin_text`
   * 2nd click - Declare the variable `key`
@@ -58,10 +66,7 @@ This demo is designed to be used by anybody at Codio to show off the platform. T
 * The code visualizer works with a variety of programming languages (listed on the Guides page)
 
 ## Learning Insights
-* The goal of the Insights dashboards is to verify that students are in the zone of proximal development (ZPD).
-  * ZPD is an area of learning in which students acquire knowledge through guidance
-  * Students "below" the ZPD need additional/different types of guidance
-  * Students "above" the ZPD need a greater challenge
+* **If a dashboard becomes problematic, refresh the browser**
 * There are four different dashboards (or views), each one is contained in its own dropdown
 * The dashboards go from largest scope down to the smallest scope
 
@@ -153,6 +158,7 @@ string
 * Rich and immediate feedback is provided (including a solution)
 
 ## Stacks Library
+* **If the list of stacks becomes problematic, refresh the browser**
 * Stacks are software configurations for projects
   * Typically the programming language and associated libraries
 * Interactive, actual web page
@@ -172,6 +178,7 @@ string
     
 
 ## Going Further
+* **Refresh the browser to return to the list of resources**
 * Shows off the content that Codio has created
   * Like stacks, this is a live page
   * Filter the content

@@ -12,7 +12,7 @@
 
 <img src=".guides/img/standard_code_test.gif" />
 <div class="blurb">
-  Codio's standard code test allows you to test the output of student work. Instructors can also leave rich, immediate feedback for their students. For more complex coding questions, Codio also has <a href="https://codio.com/docs/content/authoring/assessments/assessments-code-tests/">advanced code tests</a>
+  Codio's standard code test allows you to test the output of student work. No scripting is required. Instructors can also leave rich, immediate feedback for their students. For more complex coding questions, Codio also has <a href="https://codio.com/docs/content/authoring/assessments/assessments-code-tests/">advanced code tests</a>, which allow you to use existing scripts and unit tests.
 </div>
 
 <hr>

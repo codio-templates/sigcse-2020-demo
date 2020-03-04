@@ -6,12 +6,13 @@
 </div>
 
 <div class="marketing">
-  Codio offers customizable, pre-made content. Need better content here!!
+  Codio offers a growing collection of editable, mix-and-match content.
 </div>
 
-<iframe src="https://www.codio.com/resources"></iframe>
-
-<iframe src="https://share.hsforms.com/1X15WxFZWShmlzci6RS6Ayw1bqjh"></iframe>
+<div id="frames">
+  <iframe src="https://www.codio.com/resources"></iframe>
+  <iframe id="hubspot" src="https://share.hsforms.com/1X15WxFZWShmlzci6RS6Ayw1bqjh"></iframe>
+</div>
 
 <div class="blurb">
   <ul>
