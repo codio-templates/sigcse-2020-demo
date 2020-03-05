@@ -35,18 +35,6 @@ The Learning Insights section will only work with the **psenior1** account. So a
 ## Purpose
 The contents of this demo coincides with the information highlighted on the backdrop for our booth. It is a six-page interactive demo, with the last page showing off our custom resources as well having some tools for taking the prospective client further (start a trial, capture information for HubSpot, and a link for more demos).
 
-## Assessments Library
-* The gif shows how the assessments library can be searched.
-* Instructors can search by:
-  * Programming Language
-  * Category - Higher level of organization like loops
-  * Content - More specific level of organization while loops and for loops
-  * Learning Objective - Always starts with SWBAT (students will be able to) followed by a short description of what the student is expected to know
-  * Bloom's Taxonomy - Denotes the complexity and specificity of the problem
-* Schools can build their own assessments library
-  * This library is private to the institution (other Codio clients won't see the questions) and can be shared with colleagues
-  * Institutions can create their own tagging system if they want (class title)
-
 ## Code Visualizer
 * **Drag the middle divider of the visualizer so all of the code can be seen**
 * Students can step through their code one line at a time
@@ -64,31 +52,6 @@ The contents of this demo coincides with the information highlighted on the back
   * All remaining clicks will encrypt the remainder of the plain text phrase; no need to go any further
 * The dropdown has a gif to represent how the encryption algorithm (Caesar cipher) works
 * The code visualizer works with a variety of programming languages (listed on the Guides page)
-
-## Learning Insights
-* **If a dashboard becomes problematic, refresh the browser**
-* There are four different dashboards (or views), each one is contained in its own dropdown
-* The dashboards go from largest scope down to the smallest scope
-
-#### Class Insights
-* Show progress for all students across all modules
-* There's nothing to click on, opens to the correct dashboard
-
-#### Module Insights
-* Show progress for all students for a particular module
-* Modules contain several units
-* Scroll down to the "Coding with Python" module
-* Click "Show Insights"
-
-#### Unit Insights
-* Show progress for all students for a particular unit
-* Units contain several assignments
-* Opens to the proper dashboard, stay on the "Bubble Sort" unit
-
-#### Student Insights
-* Show progress for a particular student across the entire class
-* Click on a student (the first one is fine)
-* Click on "Insights" to see the dashboard
 
 ## Auto-Graded Assessments
 * All of the auto-graded assessments (except for standard code test) are interactive; be sure to show off what happens when an answer is submitted
@@ -156,6 +119,44 @@ float
 string
 ```
 * Rich and immediate feedback is provided (including a solution)
+
+
+## Assessments Library
+* The gif shows how the assessments library can be searched.
+* Instructors can search by:
+  * Programming Language
+  * Category - Higher level of organization like loops
+  * Content - More specific level of organization while loops and for loops
+  * Learning Objective - Always starts with SWBAT (students will be able to) followed by a short description of what the student is expected to know
+  * Bloom's Taxonomy - Denotes the complexity and specificity of the problem
+* Schools can build their own assessments library
+  * This library is private to the institution (other Codio clients won't see the questions) and can be shared with colleagues
+  * Institutions can create their own tagging system if they want (class title)
+
+## Learning Insights
+* **If a dashboard becomes problematic, refresh the browser**
+* There are four different dashboards (or views), each one is contained in its own dropdown
+* The dashboards go from largest scope down to the smallest scope
+
+#### Class Insights
+* Show progress for all students across all modules
+* There's nothing to click on, opens to the correct dashboard
+
+#### Module Insights
+* Show progress for all students for a particular module
+* Modules contain several units
+* Find the module called "The Basics" module
+* Click "Show Insights"
+
+#### Unit Insights
+* Show progress for all students for a particular unit
+* Units contain several assignments
+* Opens to the proper dashboard, stay on the "Bubble Sort" unit
+
+#### Student Insights
+* Show progress for a particular student across the entire class
+* Click on a student (the first one is fine)
+* Click on "Insights" to see the dashboard
 
 ## Stacks Library
 * **If the list of stacks becomes problematic, refresh the browser**
