@@ -1,6 +1,7 @@
 # SIGCSE 2020 Demo
 
 ## TL;DR
+* **USE CHROME FOR THIS DEMO!!**
 * Use Zed to login as **psenior1** to access the demo
 * When in doubt, refresh the page
 * This is an interactive playground ― click, drag, indent, search, etc.

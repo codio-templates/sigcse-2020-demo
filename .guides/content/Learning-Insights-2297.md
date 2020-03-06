@@ -10,7 +10,7 @@
 </div>
 
 <div class="insights">
-  <details><summary>Class Insights - See how all students are performing across all units</summary><iframe scrolling="auto" src="https://codio.com/home/teacher/5da63347d45e5b642573c650?tab=insights"></iframe></details>
+  <details><summary>Class Insights - See how all students are performing across all modules</summary><iframe scrolling="auto" src="https://codio.com/home/teacher/5da63347d45e5b642573c650?tab=insights"></iframe></details>
   <details><summary>Module Insights - See how all students are performing across a module</summary><iframe scrolling="auto" src="https://codio.com/home/teacher/5da63347d45e5b642573c650?tab=units"></iframe></details>
   <details><summary>Unit Insights - See how all students are performing for one unit</summary><iframe scrolling="auto" src="https://codio.com/home/teacher/5da63347d45e5b642573c650?tab=units&unitId=y7qnfq2UUzzY&unitTab=insights"></iframe></details>
   <details><summary>Student Insights - See how a student is performing for all units</summary><iframe scrolling="auto" src="https://codio.com/home/teacher/5da63347d45e5b642573c650?tab=students"></iframe></details>

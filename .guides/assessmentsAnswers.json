@@ -1,10 +1,106 @@
 [
  {
   "taskId": "fill-in-the-blanks-80568668",
+  "points": 1,
+  "state": {
+   "active": [
+    "boolean",
+    "integer",
+    "float",
+    "string"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "right": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "timestamp": 1583511681391,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "parsons-puzzle-2090851768",
   "points": 0,
   "state": {
-   "active": []
+   "trashHash": "4_0-3_0-5_0-6_0-2_0",
+   "solutionHash": "0_0-1_1",
+   "toggleStates": "{}"
   },
-  "results": []
+  "results": [
+   {
+    "points": 0,
+    "trashHash": "4_0-3_0-5_0-6_0-2_0",
+    "solutionHash": "0_0-1_1",
+    "toggleStates": "{}",
+    "studentCode": "if my_var == 1:\n  print(\"my_var is equal to 1\")",
+    "timestamp": 1583511632476,
+    "state": "fail"
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-576716946",
+  "points": 1,
+  "state": {
+   "active": [
+    "40ccf3ec-5f9e-5bbb-ef36-906c349b43b9",
+    "ab3a43e2-c860-ea92-0d39-7d1e24780ef8"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "40ccf3ec-5f9e-5bbb-ef36-906c349b43b9",
+     "ab3a43e2-c860-ea92-0d39-7d1e24780ef8"
+    ],
+    "right": [
+     "40ccf3ec-5f9e-5bbb-ef36-906c349b43b9",
+     "ab3a43e2-c860-ea92-0d39-7d1e24780ef8"
+    ],
+    "timestamp": 1583511646807,
+    "state": "pass"
+   }
+  ]
+ },
+ {
+  "taskId": "fill-in-the-blanks-582354780",
+  "points": 1,
+  "state": {
+   "active": [
+    "boolean",
+    "integer",
+    "float",
+    "string"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "right": [
+     "boolean",
+     "integer",
+     "float",
+     "string"
+    ],
+    "timestamp": 1583511660011,
+    "state": "pass"
+   }
+  ]
  }
 ]
